@@ -20,7 +20,7 @@
     "homepage": "https://github.com/JohnParkerHodges/ProjectTWOtemplate#readme",
     "dependencies": {
         "expres": "0.0.5",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "sequelize": "^5.21.2"
     },
     "devDependencies": {
